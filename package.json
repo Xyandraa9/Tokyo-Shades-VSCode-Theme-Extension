@@ -1,0 +1,21 @@
+{
+    "name": "shades-of-mint",
+    "displayName": "shades-of-mint",
+    "description": "A palette filled with mint green variations.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shades of Mint",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Shades of Mint-color-theme.json"
+            }
+        ]
+    }
+}
